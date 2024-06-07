@@ -35,3 +35,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # yawmy_app a full stack website for video calling creating by yahya kassoum ,we use next js 14 and sdk stream api for build this app 
+# yawmy_app a full stack website for video calling creating by yahya kassoum ,we use next js 14 and sdk stream api for build this app 
+# yawmy.chat
